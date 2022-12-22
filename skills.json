@@ -1,0 +1,32 @@
+Software testing theory
+Writing test documentation (test cases, checklists, bug reports)
+Mobile and web app testing
+Database testing (JOIN and SELECT requests)
+API testing
+GIT
+BASH
+POSTMAN
+Fiddler and Charles Proxy
+Jira and Azure DevOps
+{
+    "QA courses": {
+        "Course 1 name": "Manual QA Engineer. Udemy, online courses", 
+        "Course 2 name": "Vadim Kzendzov's QA Course",
+        "Course syllabus": 
+        "Software testing theory
+        Writing test documentation (test cases, checklists, bug reports)
+        Mobile and web app testing
+        Database testing (JOIN and SELECT requests)
+        API testing
+        GIT
+        BASH
+        POSTMAN
+        Fiddler and Charles Proxy
+        Jira and Azure DevOps"
+    },
+    
+    "Languages": {
+        "Russian": "native",
+        "English": "C1"
+    },
+}
